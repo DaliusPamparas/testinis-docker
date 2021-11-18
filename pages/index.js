@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       testinis nertyu
+       testinis nertyu abra kadabra
       </main>
 
       <footer className={styles.footer}>
